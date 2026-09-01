@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Projeto 09</string>
+
+    <string name="label_forma_pgto">Forma Pagamento</string>
+    <string name="label_a_vista">A vista</string>
+    <string name="label_30_dias">30 dias</string>
+
+    <string name="label_2x">Parcelado em 2x</string>
+    <string name="label_3x">Parcelado em 3x</string>
+    <string name="label_selecionada">Forma de PGTO selecionada:</string>
+
+</resources>
