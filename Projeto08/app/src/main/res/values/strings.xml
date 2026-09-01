@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Projeto 08</string>
+
+    <string name="label_configuracoes">Configurações</string>
+    <string name="label_dark_mode">Dark Mode</string>
+    <string name="label_notificacoes">Ativar Notificações</string>
+
+    <string name="label_ligado">Ligado</string>
+    <string name="label_desligado">Desligado</string>
+
+
+</resources>
