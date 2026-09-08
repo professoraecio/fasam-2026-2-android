@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto 11</string>
+
+    <string name="label_mensagem_curta">Mensagem Curta</string>
+    <string name="label_mensagem_longa">Mensagem Longa</string>
+
+</resources>
